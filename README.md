@@ -73,17 +73,13 @@ The website is deployed using GitHub Pages from the `main` branch and the root f
 
 ## Live Website
 
-
-
-Coming soon.
+https://shubhkarma666.github.io/elevate-labs-task-5-Static-Page-MyResume/
 
 
 
 ## GitHub Repository
 
-
-
-Coming soon.
+https://github.com/shubhkarma666/elevate-labs-task-5-Static-Page-MyResume.git
 
 
 
