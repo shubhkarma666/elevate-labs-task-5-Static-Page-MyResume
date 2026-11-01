@@ -73,11 +73,17 @@ The website is deployed using GitHub Pages from the `main` branch and the root f
 
 ## Live Website
 
+Check My Both Website and do let me know, Which Website you like More?
+
+https://shubhkarma666.github.io/itsme/
+
 https://shubhkarma666.github.io/elevate-labs-task-5-Static-Page-MyResume/
 
 
 
 ## GitHub Repository
+
+https://github.com/shubhkarma666/itsme.git
 
 https://github.com/shubhkarma666/elevate-labs-task-5-Static-Page-MyResume.git
 
