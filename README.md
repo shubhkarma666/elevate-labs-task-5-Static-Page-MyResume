@@ -1,18 +1,13 @@
 ## Task 6: Host a Static Website with GitHub Pages
 
-
-
 ## Project Overview
-
-
 
 This project demonstrates how to build and deploy a static website using GitHub Pages.
 
-
+## Website - Screenshot
+![Website](screenshots/website.png)
 
 ## Technologies Used
-
-
 
 - HTML5
 - CSS3
